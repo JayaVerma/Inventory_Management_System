@@ -4,10 +4,12 @@ An inventory management system project that allows user to manage and maintain h
 This Inventory has been made from Two different Prespective - 1st Buyers & 2nd Owner
 
 The Buyer has given 2 options :- 
+
 1.Purchase Product : Buyer can Purchase one or Multiple Products.
 2.View Inventory : Buyer can see all the products Id with their corresponding names in the inventory and further choose the option to Purchase as well.
 
 The Owner of the Inventory has given 6 different option to follow up with :- 
+
 1.Purchase Product : Owner can Purchase one or Multiple Products.
 2.View Inventory : Owner can see all the products Id with their corresponding names in the inventory and further choose the option to Purchase as well.
 3.Add Items To Inventory : Owner can update the quantity of existing Product or can add a new product to the inventory.
