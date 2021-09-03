@@ -1,0 +1,2 @@
+# Inventory_Management_System
+An inventory management system project that allows user to manage and maintain his/her inventory with ease. This inventory management system has been developed to allow users to add item to an inventory, delete item from inventory, Purchase item from Inventory, Update price of the product in the inventory and other details, update inventory status and also get a Sales.json file for the sales record purpose.
